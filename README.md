@@ -1,6 +1,6 @@
 ## Pizza_Menu_API
 A REST API that facilitates Management of Pizza Menu of a Pizza Shop.
-This is A RESTful API developed using Node.js and Express.js to provide facility to manage the Menu of a Pizza Shop. It provides all the CRUD operations. 
+This RESTful API is built using Node.js and Express.js to manage the menu of a pizza shop. It allows you to create, read, update, and delete pizza items in the menu.
 
 #### API endpoints:
 * GET /pizzas: Retrieves the full menu list
